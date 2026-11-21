@@ -2,7 +2,7 @@
 
 🧠 Computer Science Student at PMEC<br/>
 👾 Aspiring SDE at FAANG<br/>
-🎀 Dancing And Cooking - Ultimate Escape<br/>
+🎀 Coding - Ultimate Escape<br/>
 🩷 Follow me on (https://www.instagram.com/truptiiii_1203/)
 💌 Gmail: truptimayeesuar@gmail.com
 
