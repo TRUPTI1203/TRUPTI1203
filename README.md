@@ -17,7 +17,7 @@ I'm interested in software engineering, AI/ML, problem-solving, and building use
 - 🔭 **Currently building:** Sign Language Recognition
 - 🧠 **Focusing on:** AI/ML, Data Structures & Algorithms, and open-source contributions
 - 💻 **Languages:** C, Java, Python, JavaScript; TypeScript appears in my repository language statistics
-- 🛠️ **Tools:** GitHub, Windows Terminal, Canva, and Figma
+- 🛠️ **Tools:** GitHub, VSCode, Canva
 - 📫 **Email:** [truptimayeesuar@gmail.com](mailto:truptimayeesuar@gmail.com)
 - 📸 **Instagram:** [@truptiiii_1203](https://www.instagram.com/truptiiii_1203/)
 
