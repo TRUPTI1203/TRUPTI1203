@@ -35,9 +35,9 @@ A project in progress exploring sign language gesture recognition and accessible
 ## GitHub Stats
 
 <!-- Replace YOUR_GITHUB_USERNAME after confirming your exact GitHub username. -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TRUPTI1203&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TRUPTI1203&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
